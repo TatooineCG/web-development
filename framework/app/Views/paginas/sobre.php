@@ -1,0 +1,1 @@
+<h1><?php $dados['tituloPagina']?></h1>
